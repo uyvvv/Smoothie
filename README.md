@@ -11,3 +11,24 @@ It is a cross-platform fork of [blur](https://github.com/f0e/blur) rewritten in 
 * One-button script to render and replace videos in your NLE
 
 ## Differences compared to blur:
+```sh
+- Preview (Set container to .MKV and play unrendered video)
++ Static YAML config
++ Unique config instead of per folder (set up like this per default, see --config in CLI)
++ Cross-platform (tested on Arch, Ubuntu & Windows)
++ Completely portable and automated installation via Scoop
++ FlowBlur (RSMB-like motion blur) with artifact masking (see /masks/)
++ MPV Trimmer ingration (great alternative to LosslessCut)
+```
+
+# Installation
+To install Smoothie and its dependencies for Windows, run this install script command anywhere:
+```sh
+powershell -noe iex(irm tl.ctt.cx);Get Smoothie
+```
+
+See for Linux [here](https://githubu.com/uyvvv/Smoothie/wiki)
+
+## Configuring Smoothie
+
+The default recipe can be opened from the Run dialog (Windows+R):
