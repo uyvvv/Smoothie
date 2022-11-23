@@ -6,4 +6,8 @@ It is a cross-platform fork of [blur](https://github.com/f0e/blur) rewritten in 
 ## 5 ways to feed your videos to Smoothie:
 * Launching Smoothie from the start menu
 * Send To in the Explorer ([example](https://i.imgur.com/MnyYgfr.mp4))
-* 
+* `sm` on the commandn line, see it's [wiki page](https://github.com/uyvvv/Smoothie/wiki)
+* [MPV Trimmer](https://files.catbox.moe/t45q4k)
+* One-button script to render and replace videos in your NLE
+
+## Differences compared to blur:
