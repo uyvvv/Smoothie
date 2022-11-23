@@ -32,4 +32,6 @@ See for Linux [here](https://githubu.com/uyvvv/Smoothie/wiki)
 ## Configuring Smoothie
 
 The default recipe can be opened from the Run dialog (Windows+R):
+
+
 ![68747470733a2f2f692e696d6775722e636f6d2f503333376f6d742e706e67](https://user-images.githubusercontent.com/118849275/203483837-14db21d6-cc30-4df9-8a3e-dc1638e2d9d5.png)
